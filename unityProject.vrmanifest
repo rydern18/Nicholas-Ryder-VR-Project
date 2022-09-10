@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.nicholasrydervrproject.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "Z:\\Nic\\Desktop\\Nicholas Ryder VR Project\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Nicholas Ryder VR Project [Testing]"
+        }
+      }
+    }
+  ]
+}
